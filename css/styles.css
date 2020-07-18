@@ -475,7 +475,8 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 250px;
+  width: 450px;
 }
 
 .img-thumbnail {
@@ -6165,7 +6166,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #924cc4 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
